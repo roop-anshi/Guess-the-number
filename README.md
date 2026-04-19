@@ -1,8 +1,8 @@
-🎯 Guess the Number Game
+#🎯 Guess the Number Game
 
 A simple web-based game where the player tries to guess a randomly generated number between 1 and 100.
 
-🚀 Features
+#🚀 Features
 
 - Random number generation
 - User input with validation
@@ -12,20 +12,20 @@ A simple web-based game where the player tries to guess a randomly generated num
 - Tracks number of attempts
 - Restart game option 🔄
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-📁 Project Structure
+#📁 Project Structure
 
 guess-the-number/
 │── index.html
 │── style.css
 │── script.js
 
-🎮 How to Play
+#🎮 How to Play
 
 1. Enter a number between 1 and 100
 2. Click Submit
@@ -34,13 +34,13 @@ guess-the-number/
    - Too low → guess bigger number
 4. Try until you guess correctly 🎉
 
-📌 Future Improvements
+#📌 Future Improvements
 
 - Difficulty levels (Easy / Medium / Hard)
 - Timer ⏱️
 - Better UI design 🎨
 
-👩‍💻 Author
+#👩‍💻 Author
 
 Roopanshi
 First-year Computer Science Student
