@@ -20,10 +20,10 @@ A simple web-based game where the player tries to guess a randomly generated num
 
 # 📁 Project Structure
 
-guess-the-number/
-│── index.html
-│── style.css
-│── script.js
+guess-the-number
+• │── index.html
+• │── style.css
+• │── script.js
 
 # 🎮 How to Play
 
@@ -42,5 +42,5 @@ guess-the-number/
 
 # 👩‍💻 Author
 
-Roopanshi
-First-year Computer Science Student
+• Roopanshi
+• First-year Computer Science Student
