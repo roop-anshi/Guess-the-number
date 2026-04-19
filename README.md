@@ -42,5 +42,5 @@ guess-the-number
 
 # 👩‍💻 Author
 
-• Roopanshi
-• First-year Computer Science Student
+•. Roopanshi
+•. First-year Computer Science Student
